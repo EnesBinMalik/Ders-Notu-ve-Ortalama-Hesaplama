@@ -1,0 +1,6 @@
+{
+  "name": "Ders Notu ve Ortalama Hesaplama",
+  "description": "Matematik, Fizik, Türkçe, Kimya ve Müzik dersleri için geçme notu 55 olan ve 0-100 dışındaki notları filtreleyen öğrenci not ortalaması hesaplayıcı. Enes Öztürk imzalı ödev çalışması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
